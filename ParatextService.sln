@@ -9,9 +9,9 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParatextLiftService", "src\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParatextLiftService.Tests", "src\ParatextLiftService.Tests\ParatextLiftService.Tests.csproj", "{D2B177B9-D6C6-4709-8682-ABE1E9A3CBE7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServiceProvider", "src\ServiceProvider\ServiceProvider.csproj", "{9CCFD711-02C2-4359-977E-984EDEE2C128}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServiceBroker", "src\ServiceBroker\ServiceBroker.csproj", "{9CCFD711-02C2-4359-977E-984EDEE2C128}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServiceProvider.Tests", "src\ServiceProvider.Tests\ServiceProvider.Tests.csproj", "{2B66867E-379A-4C0E-A9CD-A42B8474D3BF}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServiceBroker.Tests", "src\ServiceBroker.Tests\ServiceBroker.Tests.csproj", "{2B66867E-379A-4C0E-A9CD-A42B8474D3BF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
