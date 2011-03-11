@@ -1,0 +1,50 @@
+
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParatextServiceCommon", "src\ParatextServiceCommon\ParatextServiceCommon.csproj", "{1E7B7EDF-0305-43BB-9955-F093B08DC857}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParatextServiceCommon.Tests", "src\ParatextServiceCommon.Tests\ParatextServiceCommon.Tests.csproj", "{418DB68D-0F54-4EFA-84DE-C83D116BAB71}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParatextLiftService", "src\ParatextLiftService\ParatextLiftService.csproj", "{979EE676-B067-4A20-9302-506C7B269F84}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParatextLiftService.Tests", "src\ParatextLiftService.Tests\ParatextLiftService.Tests.csproj", "{D2B177B9-D6C6-4709-8682-ABE1E9A3CBE7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServiceProvider", "src\ServiceProvider\ServiceProvider.csproj", "{9CCFD711-02C2-4359-977E-984EDEE2C128}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServiceProvider.Tests", "src\ServiceProvider.Tests\ServiceProvider.Tests.csproj", "{2B66867E-379A-4C0E-A9CD-A42B8474D3BF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1E7B7EDF-0305-43BB-9955-F093B08DC857}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E7B7EDF-0305-43BB-9955-F093B08DC857}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E7B7EDF-0305-43BB-9955-F093B08DC857}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E7B7EDF-0305-43BB-9955-F093B08DC857}.Release|Any CPU.Build.0 = Release|Any CPU
+		{418DB68D-0F54-4EFA-84DE-C83D116BAB71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{418DB68D-0F54-4EFA-84DE-C83D116BAB71}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{418DB68D-0F54-4EFA-84DE-C83D116BAB71}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{418DB68D-0F54-4EFA-84DE-C83D116BAB71}.Release|Any CPU.Build.0 = Release|Any CPU
+		{979EE676-B067-4A20-9302-506C7B269F84}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{979EE676-B067-4A20-9302-506C7B269F84}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{979EE676-B067-4A20-9302-506C7B269F84}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{979EE676-B067-4A20-9302-506C7B269F84}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D2B177B9-D6C6-4709-8682-ABE1E9A3CBE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2B177B9-D6C6-4709-8682-ABE1E9A3CBE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2B177B9-D6C6-4709-8682-ABE1E9A3CBE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2B177B9-D6C6-4709-8682-ABE1E9A3CBE7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9CCFD711-02C2-4359-977E-984EDEE2C128}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9CCFD711-02C2-4359-977E-984EDEE2C128}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9CCFD711-02C2-4359-977E-984EDEE2C128}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9CCFD711-02C2-4359-977E-984EDEE2C128}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2B66867E-379A-4C0E-A9CD-A42B8474D3BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B66867E-379A-4C0E-A9CD-A42B8474D3BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B66867E-379A-4C0E-A9CD-A42B8474D3BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B66867E-379A-4C0E-A9CD-A42B8474D3BF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
