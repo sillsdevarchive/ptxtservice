@@ -1,0 +1,6 @@
+
+output/
+_ReSharper.ParatextService
+*.user
+*.suo
+obj/
